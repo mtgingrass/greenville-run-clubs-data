@@ -2,7 +2,7 @@
   "run_clubs": [
     {
       "name": "Greenville Run Club",
-      "meetup_time": "Monday 6:45 PM",
+      "meetup_time": "6:45 PM",
       "meetup_day": "Monday",
       "location": {
         "name": "The Commons at Pangaea Brewing",
