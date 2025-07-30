@@ -572,6 +572,490 @@
       "is_recurring": true,
       "last_known_update": "2025-07-30",
       "notes": "Weekly group run (or walk) at The Mill at Fountain Inn. Community event hosted at a restored historic flour mill that features a food hall, brewery, and outdoor green space."
+    },
+    {
+      "name": "WR@D Group - Greenville High Track",
+      "meetup_time": "Tuesday 5:15 AM, Wednesday 5:15 AM",
+      "meetup_day": "Tuesday, Wednesday",
+      "location": {
+        "name": "Greenville High School track",
+        "address": "1 Chick Springs Rd, Greenville, SC 29609",
+        "lat": 34.8353,
+        "lon": -82.3906
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Greenville+High+School+Track",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early morning track workouts at Greenville High School."
+    },
+    {
+      "name": "Paris Mountain Trail Run",
+      "meetup_time": "Tuesday 6:00 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "Paris Mountain State Park",
+        "address": "2401 State Park Rd, Greenville, SC 29609",
+        "lat": 34.9220,
+        "lon": -82.3876
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Paris+Mountain+State+Park+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening trail runs at Paris Mountain State Park."
+    },
+    {
+      "name": "Camperdown Plaza Run",
+      "meetup_time": "Tuesday 6:30 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "Camperdown Plaza",
+        "address": "1 Camperdown Way, Greenville, SC 29601",
+        "lat": 34.8473,
+        "lon": -82.3964
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Camperdown+Plaza+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening run from Camperdown Plaza."
+    },
+    {
+      "name": "RunIn Greenville Store Run",
+      "meetup_time": "Tuesday 6:00 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "RunIn Greenville",
+        "address": "2700 Laurens Rd, Greenville, SC 29607",
+        "lat": 34.8315,
+        "lon": -82.3331
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=RunIn+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening run from RunIn store in Greenville."
+    },
+    {
+      "name": "Swamp Commoners",
+      "meetup_time": "Wednesday 6:00 AM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "The Commons on Swamp Rabbit Trail",
+        "address": "201 Beattie Pl, Greenville, SC 29601",
+        "lat": 34.8449,
+        "lon": -82.3950
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=The+Commons+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early morning run from The Commons on the Swamp Rabbit Trail."
+    },
+    {
+      "name": "Community Tap in TR",
+      "meetup_time": "Wednesday 6:00 PM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "The Community Tap",
+        "address": "3048 N Main St, Travelers Rest, SC 29690",
+        "lat": 34.9678,
+        "lon": -82.4436
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=The+Community+Tap+Travelers+Rest+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Wednesday evening run from The Community Tap in Travelers Rest."
+    },
+    {
+      "name": "Fleet Feet Pub Run",
+      "meetup_time": "Thursday 6:00 PM",
+      "meetup_day": "Thursday",
+      "location": {
+        "name": "Fleet Feet Greenville",
+        "address": "635 Augusta St, Greenville, SC 29605",
+        "lat": 34.8493,
+        "lon": -82.4095
+      },
+      "contact": {
+        "website": "https://www.fleetfeet.com/s/greenville/"
+      },
+      "apple_maps_link": "https://maps.apple.com/?q=Fleet+Feet+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Thursday evening pub run from Fleet Feet."
+    },
+    {
+      "name": "Unity Park Long Run",
+      "meetup_time": "Saturday 6:30 AM (6:00 AM Summer)",
+      "meetup_day": "Saturday",
+      "location": {
+        "name": "Unity Park",
+        "address": "320 S Hudson St, Greenville, SC 29601",
+        "lat": 34.8430,
+        "lon": -82.4012
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Unity+Park+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Saturday morning long runs. Earlier start time (6am) during summer months."
+    },
+    {
+      "name": "WR@D Unity Park Long Run",
+      "meetup_time": "Sunday 5:15 AM",
+      "meetup_day": "Sunday",
+      "location": {
+        "name": "Unity Park",
+        "address": "320 S Hudson St, Greenville, SC 29601",
+        "lat": 34.8430,
+        "lon": -82.4012
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Unity+Park+Greenville+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early Sunday morning long runs from Unity Park."
+    },
+    {
+      "name": "Rockers Run Club",
+      "meetup_time": "Tuesday 6:00 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "RJ Rockers Brewing Company",
+        "address": "226-A W Main St, Spartanburg, SC 29306",
+        "lat": 34.9476,
+        "lon": -81.9320
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=RJ+Rockers+Brewing+Company+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening brewery run in Spartanburg."
+    },
+    {
+      "name": "Southside Run",
+      "meetup_time": "Tuesday 5:30 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "South Converse Street Park",
+        "address": "S Converse St, Spartanburg, SC 29306",
+        "lat": 34.9426,
+        "lon": -81.9292
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=South+Converse+Street+Park+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening run from South Converse Street Park."
+    },
+    {
+      "name": "Strides Run Club",
+      "meetup_time": "Wednesday 5:30 AM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "101 E Rutherford St",
+        "address": "101 E Rutherford St, Landrum, SC 29356",
+        "lat": 35.1748,
+        "lon": -82.1893
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=101+E+Rutherford+St+Landrum+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early morning run club in Landrum."
+    },
+    {
+      "name": "Willy Way Run Club",
+      "meetup_time": "Thursday 6:00 PM",
+      "meetup_day": "Thursday",
+      "location": {
+        "name": "930 E Main St",
+        "address": "930 E Main St, Spartanburg, SC 29302",
+        "lat": 34.9494,
+        "lon": -81.9203
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=930+E+Main+St+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Thursday evening run in Spartanburg."
+    },
+    {
+      "name": "FR8yard Run Club",
+      "meetup_time": "Friday 6:30 PM",
+      "meetup_day": "Friday",
+      "location": {
+        "name": "FR8yard",
+        "address": "125 E Main St, Spartanburg, SC 29306",
+        "lat": 34.9493,
+        "lon": -81.9314
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=FR8yard+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Friday evening social run from FR8yard."
+    },
+    {
+      "name": "Drayton Mills Run",
+      "meetup_time": "Saturday 8:00 AM",
+      "meetup_day": "Saturday",
+      "location": {
+        "name": "Drayton Mills",
+        "address": "1100 Duncan Reidville Rd, Spartanburg, SC 29301",
+        "lat": 34.9669,
+        "lon": -81.8778
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Drayton+Mills+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Saturday morning run from Drayton Mills area."
+    },
+    {
+      "name": "Croft @ Dawn",
+      "meetup_time": "Sunday 7:00 AM",
+      "meetup_day": "Sunday",
+      "location": {
+        "name": "Croft State Park",
+        "address": "450 Croft State Park Rd, Spartanburg, SC 29302",
+        "lat": 34.9064,
+        "lon": -81.8097
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Croft+State+Park+Spartanburg+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Sunday morning trail run at Croft State Park."
+    },
+    {
+      "name": "ARC Monthly Rotation",
+      "meetup_time": "Tuesday 5:30 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "Various Anderson locations",
+        "address": "Anderson, SC",
+        "lat": 34.5034,
+        "lon": -82.6501
+      },
+      "contact": {
+        "notes": "Contact Claire Blanton for location"
+      },
+      "apple_maps_link": "https://maps.apple.com/?q=Anderson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Monthly rotation at different Anderson locations. Contact Claire Blanton for current location."
+    },
+    {
+      "name": "Maple Bakery Run",
+      "meetup_time": "Last Wednesday of Month 6:00 AM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "Maple Bakery",
+        "address": "Anderson, SC",
+        "lat": 34.5034,
+        "lon": -82.6501
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Maple+Bakery+Anderson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Last Wednesday of each month early morning run from Maple Bakery."
+    },
+    {
+      "name": "Anderson Unity Park Long Run",
+      "meetup_time": "Saturday 6:00 AM",
+      "meetup_day": "Saturday",
+      "location": {
+        "name": "Unity Park Anderson",
+        "address": "Anderson, SC",
+        "lat": 34.5034,
+        "lon": -82.6501
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Unity+Park+Anderson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Saturday morning long runs from Unity Park in Anderson."
+    },
+    {
+      "name": "Biscuitville Anderson Run",
+      "meetup_time": "Sunday 7:00 AM",
+      "meetup_day": "Sunday",
+      "location": {
+        "name": "Biscuitville Anderson on Main",
+        "address": "Anderson, SC",
+        "lat": 34.5034,
+        "lon": -82.6501
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Biscuitville+Anderson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Sunday morning run from Biscuitville on Main in Anderson."
+    },
+    {
+      "name": "Run of the Mill Club",
+      "meetup_time": "Wednesday 6:00 PM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "Central Roller Mills",
+        "address": "Central, SC",
+        "lat": 34.7243,
+        "lon": -82.7813
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Central+Roller+Mills+Central+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Wednesday evening run from Central Roller Mills."
+    },
+    {
+      "name": "Kite Hill Brewing Group Run",
+      "meetup_time": "Wednesday 6:00 PM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "Kite Hill Brewing",
+        "address": "810 W Tiger Blvd, Clemson, SC 29631",
+        "lat": 34.6835,
+        "lon": -82.8371
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Kite+Hill+Brewing+Clemson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Wednesday evening brewery run from Kite Hill Brewing."
+    },
+    {
+      "name": "Foothills Run Club",
+      "meetup_time": "Friday 6:30 AM",
+      "meetup_day": "Friday",
+      "location": {
+        "name": "Shavers Sports Complex",
+        "address": "Clemson, SC",
+        "lat": 34.6834,
+        "lon": -82.8374
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Shavers+Sports+Complex+Clemson+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Friday morning run from Shavers Sports Complex."
+    },
+    {
+      "name": "Easley Run Group",
+      "meetup_time": "Tuesday 6:30 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "City Hall / Police Station",
+        "address": "205 E 1st Ave, Easley, SC 29640",
+        "lat": 34.8295,
+        "lon": -82.6015
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Easley+City+Hall+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening run from Easley City Hall/Police Station."
+    },
+    {
+      "name": "Tri-Town Run - Mineral Spring Park",
+      "meetup_time": "Tuesday 6:30 PM, Wednesday 8:00 AM, Saturday 8:00 AM",
+      "meetup_day": "Tuesday, Wednesday, Saturday",
+      "location": {
+        "name": "Mineral Spring Park or Palmetto Middle Track",
+        "address": "Williamston, SC",
+        "lat": 34.6187,
+        "lon": -82.4779
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Mineral+Spring+Park+Williamston+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Williamston/Pelzer area runs. Tuesday evenings, Wednesday and Saturday mornings."
+    },
+    {
+      "name": "Lincoln Taproom Run",
+      "meetup_time": "Thursday 6:30 PM",
+      "meetup_day": "Thursday",
+      "location": {
+        "name": "Lincoln Taproom",
+        "address": "Williamston, SC",
+        "lat": 34.6187,
+        "lon": -82.4779
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Lincoln+Taproom+Williamston+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Thursday evening run from Lincoln Taproom in Williamston."
+    },
+    {
+      "name": "Greer Hampton Inn Run",
+      "meetup_time": "Wednesday 5:15 AM",
+      "meetup_day": "Wednesday",
+      "location": {
+        "name": "Hampton Inn",
+        "address": "Greer, SC",
+        "lat": 34.9385,
+        "lon": -82.2273
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Hampton+Inn+Greer+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early morning run from Hampton Inn in Greer."
+    },
+    {
+      "name": "Peak Performance Group Run",
+      "meetup_time": "Monday 6:00 PM",
+      "meetup_day": "Monday",
+      "location": {
+        "name": "Peak Performance",
+        "address": "Greenwood, SC",
+        "lat": 34.1954,
+        "lon": -82.1618
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Peak+Performance+Greenwood+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Monday evening run from Peak Performance in Greenwood."
+    },
+    {
+      "name": "Greenwood YMCA Early Run",
+      "meetup_time": "Tuesday 5:00 AM, Thursday 5:00 AM",
+      "meetup_day": "Tuesday, Thursday",
+      "location": {
+        "name": "Greenwood YMCA",
+        "address": "1760 Cambridge Ave E, Greenwood, SC 29646",
+        "lat": 34.1830,
+        "lon": -82.1438
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Greenwood+YMCA+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Early morning runs from Greenwood YMCA on Tuesday and Thursday."
+    },
+    {
+      "name": "Downtown Laurens Run",
+      "meetup_time": "Tuesday 6:00 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "Downtown Laurens",
+        "address": "Laurens, SC",
+        "lat": 34.4991,
+        "lon": -82.0143
+      },
+      "contact": {},
+      "apple_maps_link": "https://maps.apple.com/?q=Downtown+Laurens+SC",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Tuesday evening run in downtown Laurens."
     }
   ]
 }
