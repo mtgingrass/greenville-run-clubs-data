@@ -554,6 +554,24 @@
       "is_recurring": true,
       "last_known_update": "2025-07-23",
       "notes": "Weekly Thursday evening runs in Greer."
+    },
+    {
+      "name": "Fountain Inn Run Group",
+      "meetup_time": "Tuesday 6:00 PM",
+      "meetup_day": "Tuesday",
+      "location": {
+        "name": "The Mill at Fountain Inn",
+        "address": "100 Ellison St, Fountain Inn, SC 29644",
+        "lat": 34.6893,
+        "lon": -82.1961
+      },
+      "contact": {
+        "website": "https://themillatfountaininn.com/"
+      },
+      "apple_maps_link": "https://maps.apple.com/?q=The+Mill+at+Fountain+Inn+100+Ellison+St+Fountain+Inn+SC+29644",
+      "is_recurring": true,
+      "last_known_update": "2025-07-30",
+      "notes": "Weekly group run (or walk) at The Mill at Fountain Inn. Community event hosted at a restored historic flour mill that features a food hall, brewery, and outdoor green space."
     }
   ]
 }
