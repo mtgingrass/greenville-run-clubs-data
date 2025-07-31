@@ -300,7 +300,8 @@
       "apple_maps_link": "https://maps.apple.com/?q=Double+Stamp+Brewery+Greenville+SC",
       "is_recurring": true,
       "last_known_update": "2025-07-23",
-      "notes": "Brewery run with post-run social."
+      "notes": "Brewery run with post-run social.",
+      "admin_approved": true
     },
     {
       "name": "Eastside HS Morning Run",
